@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Prajwal',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -48,31 +48,25 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'http://mail.google.com/mail',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com',
-    },
-    {
-      id: '4',
       name: 'Calendar',
       icon: 'calendar',
       link: 'https://calendar.google.com/calendar/r',
     },
     {
-      id: '5',
+      id: '4',
       name: 'Reddit',
       icon: 'glasses',
       link: 'https://reddit.com',
     },
     {
-      id: '6',
-      name: 'Odysee',
+      id: '5',
+      name: 'Youtube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'youtube.com/',
     },
   ],
 
@@ -88,38 +82,26 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Telugu',
+        link: 'https://www.youtube.com/watch?v=-19EvIcr9ZA&list=RD-19EvIcr9ZA&start_radio=1',
       },
       {
         name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        link: 'https://www.youtube.com/watch?v=jgpJVI3tDbY',
       },
       {
         name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        link: 'https://www.youtube.com/watch?v=UgfsbL-uHOA',
+      },
+      {
+        name: 'Game Music',
+        link: 'https://www.youtube.com/watch?v=Kuy17LO14OA',
       },
     ],
     secondList: [
       {
         name: 'Linkedin',
         link: 'https://linkedin.com/',
-      },
-      {
-        name: 'Figma',
-        link: 'https://figma.com/',
-      },
-      {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
-      },
-      {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
       },
     ],
   },
